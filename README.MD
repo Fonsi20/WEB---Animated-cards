@@ -1,3 +1,5 @@
+![](https://i.gyazo.com/475501a1750ea4fcb7286d893995a3dd.gif)
+
 El servidor que uso es:
 node-static (Node.js)
 
